@@ -1,4 +1,6 @@
 # HealthStonks
+A patient data management system is a software system developed primarily to facilitate the verification of the patients’ documents while buying medicines or making medical claims.
+The focus of this project is to develop a portal that facilitates the secure exchange and verification of electronic health records. 
 
 ## Project setup
 ```
@@ -24,6 +26,12 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### How to Interact with the website 
-Please view the user guide pdf
+[User Guide](user_guide.pdf)
+
+### Project Members 
+Rahul Maddula
+Naman Kaushik
+Aanya Trehan
+Sejal Kardam
 
 
