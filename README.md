@@ -29,9 +29,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 [User Guide](user_guide.pdf)
 
 ### Project Members 
-Rahul Maddula
-Naman Kaushik
-Aanya Trehan
-Sejal Kardam
+- Rahul Maddula
+- Naman Kaushik
+- Aanya Trehan
+- Sejal Kardam
+
+  Developed as a part of Foundations of Computer Security course at IIIT Delhi
 
 
